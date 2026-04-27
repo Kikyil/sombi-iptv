@@ -646,3 +646,4 @@ setActiveNav('home');
 
 // Expose additional functions for inline handlers
 window.fullExitPlayer = fullExitPlayer;
+// [Virtual Scrolling] Implemented VirtualScroller class - renders ~15 channels at a time
