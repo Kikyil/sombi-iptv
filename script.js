@@ -649,3 +649,5 @@ window.fullExitPlayer = fullExitPlayer;
 // [Virtual Scrolling] Implemented VirtualScroller class - renders ~15 channels at a time
 
 // [Debounced Search] Added 250ms delay to prevent UI stutter while typing
+
+// [Document Fragments] Using createDocumentFragment() for grid rendering - reduces layout thrashing
