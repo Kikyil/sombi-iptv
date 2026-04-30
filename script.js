@@ -651,3 +651,5 @@ window.fullExitPlayer = fullExitPlayer;
 // [Debounced Search] Added 250ms delay to prevent UI stutter while typing
 
 // [Document Fragments] Using createDocumentFragment() for grid rendering - reduces layout thrashing
+
+// [PiP Fix] Added leavepictureinpicture event handler with video.play() resume
