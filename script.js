@@ -653,3 +653,5 @@ window.fullExitPlayer = fullExitPlayer;
 // [Document Fragments] Using createDocumentFragment() for grid rendering - reduces layout thrashing
 
 // [PiP Fix] Added leavepictureinpicture event handler with video.play() resume
+
+// [Panel Management] Single panel at a time with Escape key and overlay click to close
