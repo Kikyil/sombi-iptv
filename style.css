@@ -576,3 +576,5 @@ body.light #playingTitle {
   padding-bottom: 200px;
 }
 /* Light mode fix - player title now dark grey #1a1a1e */
+
+/* Bottom nav fix - added 200px padding to prevent content overlap */
