@@ -655,3 +655,5 @@ window.fullExitPlayer = fullExitPlayer;
 // [PiP Fix] Added leavepictureinpicture event handler with video.play() resume
 
 // [Panel Management] Single panel at a time with Escape key and overlay click to close
+
+// [Final Polish] Code organization, removed duplicate headers, added player header
