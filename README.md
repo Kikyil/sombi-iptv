@@ -61,3 +61,4 @@ sombi-iptv/
 ├── index.html # HTML structure
 ├── style.css # All styles (light/dark, responsive, virtual scroller)
 └── script.js # Application logic (HLS, UI, virtual scroll, panels)
+## Version 1.0.0 Release - May 5, 2026
