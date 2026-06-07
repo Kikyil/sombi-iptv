@@ -2,6 +2,8 @@
 
 A premium, browser-based IPTV player with HLS streaming, favorites, watch history, Picture-in-Picture support, and a responsive sidebar interface.
 
+**🔴 Live demo:** [https://kikyil.github.io/sombi-iptv/](https://kikyil.github.io/sombi-iptv/)
+
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Platform](https://img.shields.io/badge/platform-Web-lightgrey)
