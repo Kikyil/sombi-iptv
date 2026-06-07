@@ -58,7 +58,55 @@ The player uses free test playlists from [iptv-org](https://github.com/iptv-org/
 
 ## 📁 File Structure
 sombi-iptv/
-├── index.html # HTML structure
-├── style.css # All styles (light/dark, responsive, virtual scroller)
-└── script.js # Application logic (HLS, UI, virtual scroll, panels)
+- index.html # HTML structure
+- style.css # All styles (light/dark, responsive, virtual scroller)
+- script.js # Application logic (HLS, UI, virtual scroll, panels)
+
 ## Version 1.0.0 Release - May 5, 2026
+
+
+## 🛠️ Technical Stack
+
+- **HTML5 / CSS3 / TailwindCSS** – Utility‑first styling
+- **JavaScript (ES6+)** – Core logic, virtual scroller, debounce
+- **HLS.js** – HTTP Live Streaming player
+- **LocalStorage** – Persist favorites, history, theme preference
+
+## 🧪 Browser Support
+
+| Browser | Version |
+|---------|---------|
+| Chrome  | 90+     |
+| Firefox | 88+     |
+| Edge    | 90+     |
+| Safari  | 14+ (PiP requires Safari 13+) |
+
+
+## 📝 Commit History (Initial Development)
+
+> 💡 **Live commit history**: https://github.com/Kikyil/sombi-iptv/commits/main
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing`)
+3. Commit your changes (`git commit -m 'Add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing`)
+5. Open a Pull Request
+
+## 📄 License
+
+MIT License – free for personal and commercial use. – See [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgements
+
+- [iptv-org](https://github.com/iptv-org/iptv) for free test playlists
+- [HLS.js](https://github.com/video-dev/hls.js) for HLS playback
+- [TailwindCSS](https://tailwindcss.com) for rapid styling
+
+---
+
+**Made with 🧡 for IPTV enthusiasts**
+
+
+
