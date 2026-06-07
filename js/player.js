@@ -244,6 +244,5 @@ export function playChannelByObject(str, addToHistoryCallback) {
   playChannel(ch, addToHistoryCallback);
 }
 
-
 // Export for inline onclick handlers
 window.setQuality = setQuality;
